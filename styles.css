@@ -4,13 +4,29 @@
 #hot{
 
     height: 100vh;
-    background-color: aquamarine;
+    background-image: url(/bilder/hot.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
 }
 #juice{
 height: 100vh;
-background-color: yellow;
+background-image: url(/bilder/juicy.jpg);
+background-size: cover;
+background-position: 50% 50%;
 }
 #cosy{
 height: 100vh;
-background-color: green;
+background-image: url(/bilder/cosy.jpg);
+background-size: cover;
+background-position: 50% 50%;
+}
+body{
+    margin: 0;
+    background-color: red;
+}
+h1{
+    font-family: 'Spirax', cursive;
+    color: rgb(163, 11, 11);
+    font-size: 60px;
+    text-align: center;
 }
