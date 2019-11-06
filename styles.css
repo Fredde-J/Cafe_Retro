@@ -32,16 +32,17 @@ body{
 }
 h1{
     font-family: 'Spirax', cursive;
-    color: rgb(163, 11, 11);
-    font-size: 100px;
+    color: rgb(177, 1, 1);
+    font-size: 120px;
     text-align: center;
     margin-top: 240px;
+    margin-bottom: 0px;
 }
     
 
 p{
     font-family: 'Poiret One', cursive;
-    background-color: rgb(202, 13, 13);
+    background-color: rgb(182, 15, 15);
     color: white;
     text-align: center;
     font-size: 30px;
@@ -52,10 +53,21 @@ p{
 }
 .position1{
     margin-top: 20px;
-    margin-left:80px ;
+    margin-left:80px;
     
 }
 .position2{
     margin-top: 20px;
-    margin-left:300px ;
+    margin-left:600px;
+}
+ul{
+    font-family: 'Poiret One', cursive;
+    background-color: black;
+    color: white;
+    opacity: 0.7;
+    font-size: 30px;
+    width: 55%;
+    text-align: center;
+    list-style-type: none;
+    margin-left:25%;
 }
