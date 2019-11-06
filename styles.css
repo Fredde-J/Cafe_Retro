@@ -1,4 +1,16 @@
-div{
+*{
+    box-sizing: border-box;
+}
+#hot{
+
     height: 100vh;
     background-color: aquamarine;
+}
+#juice{
+height: 100vh;
+background-color: yellow;
+}
+#cosy{
+height: 100vh;
+background-color: green;
 }
